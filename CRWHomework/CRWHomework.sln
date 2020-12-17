@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRWHomework", "CRWHomework\CRWHomework.csproj", "{05D3ADF7-83E3-4227-90CF-C0CF33508DFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{AB8DD6DE-1897-4DC6-92E7-6B38A29F4CE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRWHomework.Tests", "CRWHomework.Tests\CRWHomework.Tests.csproj", "{A1B8897B-73AD-4980-958A-EC147546E9FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D3ADF7-83E3-4227-90CF-C0CF33508DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D3ADF7-83E3-4227-90CF-C0CF33508DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D3ADF7-83E3-4227-90CF-C0CF33508DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D3ADF7-83E3-4227-90CF-C0CF33508DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B8897B-73AD-4980-958A-EC147546E9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B8897B-73AD-4980-958A-EC147546E9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B8897B-73AD-4980-958A-EC147546E9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B8897B-73AD-4980-958A-EC147546E9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1B8897B-73AD-4980-958A-EC147546E9FF} = {AB8DD6DE-1897-4DC6-92E7-6B38A29F4CE2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {210A6A41-E9A6-418D-93E3-CF6549B65234}
+	EndGlobalSection
+EndGlobal

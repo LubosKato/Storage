@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNTEtB03dt88LssvS8jsa+m/pUSXd1rj5KbnFo1wwVqmSNkFjj9o6Owv55kTvjYc/m7dCYokv6h6qnBZghNijg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lubos\\source\\repos\\CRWHomework\\CRWHomework\\CRWHomework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

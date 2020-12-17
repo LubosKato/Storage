@@ -1,0 +1,17 @@
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\obj\Debug\netcoreapp3.1\CRWHomework.csprojAssemblyReference.cache
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\obj\Debug\netcoreapp3.1\CRWHomework.AssemblyInfoInputs.cache
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\obj\Debug\netcoreapp3.1\CRWHomework.AssemblyInfo.cs
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\obj\Debug\netcoreapp3.1\CRWHomework.csproj.CoreCompileInputs.cache
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\bin\Debug\netcoreapp3.1\CRWHomework.exe
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\bin\Debug\netcoreapp3.1\CRWHomework.deps.json
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\bin\Debug\netcoreapp3.1\CRWHomework.runtimeconfig.json
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\bin\Debug\netcoreapp3.1\CRWHomework.runtimeconfig.dev.json
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\bin\Debug\netcoreapp3.1\CRWHomework.dll
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\bin\Debug\netcoreapp3.1\CRWHomework.pdb
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\obj\Debug\netcoreapp3.1\CRWHomework.csproj.CopyComplete
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\obj\Debug\netcoreapp3.1\CRWHomework.dll
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\obj\Debug\netcoreapp3.1\CRWHomework.pdb
+C:\Users\lubos\source\repos\CRWHomework\CRWHomework\obj\Debug\netcoreapp3.1\CRWHomework.genruntimeconfig.cache
